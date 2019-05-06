@@ -1,0 +1,6 @@
+﻿token=NTc0ODczMTQ5Njg2OTM5NjU4.XM_uZw.0f-0XtnkAF81gHCzfwBlefnMRZ8
+owner=413660639668731914
+prefix=4play
+game= #Riyderz| 4play
+stayinchannel=true
+songinstatus=true 
